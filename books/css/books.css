@@ -1,0 +1,21 @@
+html {
+    margin:auto;
+    margin-left: 5em;
+    margin-top:10em;
+    font-size: 100%; /* keep */
+    box-sizing: border-box; /* keep */
+    background: #b6af9d;
+}
+* {
+    box-sizing: inherit; /* keep */
+}
+body {
+  border: 3px #4B0082;
+  padding: 10px;
+  font-family: 'Merriweather', serif;
+}
+
+@media (max-width: 491px) {
+    body{
+    font-size: 15px;
+}
