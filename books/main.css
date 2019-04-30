@@ -1,0 +1,15 @@
+
+body{
+  font-family: 'Merriweather', serif;
+  margin: auto;
+}
+.row{
+  margin-left: 50px;
+}
+@media (max-width: 491px) {
+    row{
+    max-width: 50%
+}
+footer{
+  margin:auto;
+}
